@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+nav a {
+    margin: 10px;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
