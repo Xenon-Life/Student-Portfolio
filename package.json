@@ -1,0 +1,11 @@
+{
+  "name": "student-portfolio",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel club.html",
+    "build": "parcel build club.html"
+  },
+  "dependencies": {
+    "parcel": "^2.0.0"
+  }
+}
